@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-01-components"]=this["webpackJsonpgoit-react-hw-01-components"]||[]).push([[1],{111:function(e,o,t){e.exports={home:"HomePage_home__2b968"}},121:function(e,o,t){"use strict";t.r(o),t.d(o,"default",(function(){return s}));var n=t(111),c=t.n(n),i=t(1);var s=function(){return Object(i.jsx)("div",{className:c.a.home,children:Object(i.jsx)("h1",{children:"Welcome to my Phonebook Application"})})}}}]);
+//# sourceMappingURL=home-page.fa7e57bc.chunk.js.map
