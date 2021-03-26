@@ -1,0 +1,38 @@
+.listSection {
+  display: block;
+  margin: 15px;
+}
+
+.item {
+  background: linear-gradient(
+    to right,
+    rgb(240, 236, 236),
+    rgb(161, 159, 159),
+    rgb(126, 121, 121),
+    rgb(163, 157, 157),
+    rgb(51, 49, 49),
+    #fff
+  );
+  box-shadow: -2px 0 4px 1px rgba(255, 255, 255, 0.9);
+  padding-left: 2px;
+  /* border: 1px solid rgb(26, 25, 25); */
+  height: 22px;
+  display: flex;
+  margin: 5px;
+  color: rgb(0, 0, 0);
+  font-weight: 650;
+}
+
+.button {
+  display: block;
+  width: 60px;
+  height: 20px;
+  background-color: rgb(202, 103, 103);
+
+  margin-left: auto;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+  /* box-shadow: 0 0 6px 2px rgba(255, 255, 255, 0.9); */
+  border-radius: 5px;
+}

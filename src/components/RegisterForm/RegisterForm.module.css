@@ -1,0 +1,50 @@
+.form {
+  min-width: 320px;
+  min-height: 100vh;
+  background: linear-gradient(
+    to bottom,
+    rgba(102, 98, 98, 0.842),
+    rgba(255, 255, 255, 0.932),
+    rgba(102, 98, 98, 0.842)
+  );
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.inputTitle {
+  width: 130px;
+}
+
+.registrationLabel {
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  margin: 25px;
+}
+
+.registrationInput {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0 25px;
+  min-width: 60%;
+  max-width: 80%;
+  height: 40px;
+  border: 1px solid #777;
+  border-radius: 10px;
+}
+
+.registrationButton {
+  display: block;
+  width: 125px;
+  height: 35px;
+  margin: 2px auto;
+  border-radius: 5px;
+  background-color: rgb(194, 235, 194);
+  box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.9);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 16px;
+}

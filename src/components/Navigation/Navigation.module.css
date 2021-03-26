@@ -1,0 +1,22 @@
+.navigation {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.btn {
+  display: block;
+  width: 100px;
+  height: 30px;
+  margin: 2px auto;
+  border-radius: 5px;
+  background-color: rgb(193, 195, 252);
+  box-shadow: 0 0 2px 2px rgba(255, 255, 255, 0.9);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 12px;
+}

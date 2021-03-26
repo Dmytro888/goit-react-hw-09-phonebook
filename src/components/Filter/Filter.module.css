@@ -1,0 +1,17 @@
+.filterTitle {
+  text-align: left;
+  margin-bottom: 5px;
+  margin-left: 5%;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.filterInput {
+  display: block;
+  width: 90%;
+  height: 25px;
+  margin: 4px auto;
+  padding: 3px 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}

@@ -1,0 +1,13 @@
+.home {
+  min-width: 320px;
+  min-height: 100vh;
+  background: linear-gradient(
+    to bottom,
+    rgba(102, 98, 98, 0.842),
+    rgba(255, 255, 255, 0.932),
+    rgba(102, 98, 98, 0.842)
+  );
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}

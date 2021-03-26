@@ -1,0 +1,8 @@
+.mainHeader {
+  display: flex;
+  min-height: 60px;
+  padding: 10px;
+  justify-content: space-between;
+  background-color: rgb(119, 114, 114);
+  border-bottom: 1px solid rgba(71, 69, 69, 0.658);
+}

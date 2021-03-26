@@ -1,0 +1,33 @@
+.inputSection {
+  text-align: left;
+  width: 100%;
+}
+
+.input {
+  display: block;
+  width: 90%;
+  height: 25px;
+  margin: 4px auto;
+  padding: 3px 5px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.label {
+  margin: 5%;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.button {
+  display: block;
+  width: 120px;
+  height: 30px;
+  margin: 2px auto;
+  border-radius: 5px;
+  background-color: rgb(194, 235, 194);
+  box-shadow: 0 0 8px 5px rgba(255, 255, 255, 0.9);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 12px;
+}
